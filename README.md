@@ -1,2 +1,2 @@
-JavaScript-Guide
+JavaScript Guide
 ================
