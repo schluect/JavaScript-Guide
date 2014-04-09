@@ -191,6 +191,11 @@
     <Content Include="Scripts\modernizr-2.6.2.js" />
     <Content Include="Scripts\respond.js" />
     <Content Include="Scripts\respond.min.js" />
+    <Content Include="Scripts\Section_1\EqualityOperations.js" />
+    <Content Include="Scripts\Section_1\Number.js" />
+    <Content Include="Scripts\Section_1\ObjectLiterals.js" />
+    <Content Include="Scripts\Section_1\String.js" />
+    <Content Include="Scripts\Section_2\Coupling.js" />
     <Content Include="Scripts\_references.js" />
     <Content Include="Web.config" />
     <Content Include="Web.Debug.config">
