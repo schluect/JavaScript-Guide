@@ -181,6 +181,9 @@
     <Content Include="html\Section_3\FunctionCollisions.html" />
     <Content Include="html\Section_3\OneGlobal.html" />
     <Content Include="html\Section_4\Events.html" />
+    <Content Include="html\Section_5\TestingTypes.html" />
+    <Content Include="html\Section_6\WhereDoesItBelong.html" />
+    <Content Include="html\Section_7\TypeScriptExample.html" />
     <Content Include="Scripts\bootstrap.js" />
     <Content Include="Scripts\bootstrap.min.js" />
     <None Include="Properties\PublishProfiles\JavaScriptGuide.pubxml" />
@@ -205,6 +208,8 @@
     <Content Include="Scripts\Section_3\OutsideGlobal2.js" />
     <Content Include="Scripts\Section_3\SameGlobal.js" />
     <Content Include="Scripts\Section_4\Events.js" />
+    <Content Include="Scripts\Section_5\TestingTypes.js" />
+    <Content Include="Scripts\Section_7\NoteTest.js" />
     <Content Include="Scripts\_references.js" />
     <Content Include="Web.config" />
     <Content Include="Web.Debug.config">
@@ -223,6 +228,9 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
+    <Folder Include="html\Section_1\" />
+    <Folder Include="html\Section_2\" />
+    <Folder Include="Scripts\Section_6\" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="fonts\glyphicons-halflings-regular.woff" />
@@ -230,6 +238,11 @@
     <Content Include="fonts\glyphicons-halflings-regular.eot" />
     <Content Include="packages.config" />
     <None Include="Project_Readme.html" />
+  </ItemGroup>
+  <ItemGroup>
+    <TypeScriptCompile Include="Scripts\Section_7\Note.ts" />
+    <TypeScriptCompile Include="Scripts\Section_7\NoteCollection.ts" />
+    <TypeScriptCompile Include="Scripts\Section_7\NoteHandler.ts" />
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
