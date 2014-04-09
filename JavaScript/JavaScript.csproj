@@ -177,6 +177,10 @@
     <Content Include="fonts\glyphicons-halflings-regular.svg" />
     <Content Include="Global.asax" />
     <Content Include="Content\Site.css" />
+    <Content Include="html\Section_3\code.png" />
+    <Content Include="html\Section_3\FunctionCollisions.html" />
+    <Content Include="html\Section_3\OneGlobal.html" />
+    <Content Include="html\Section_4\Events.html" />
     <Content Include="Scripts\bootstrap.js" />
     <Content Include="Scripts\bootstrap.min.js" />
     <None Include="Properties\PublishProfiles\JavaScriptGuide.pubxml" />
@@ -196,6 +200,11 @@
     <Content Include="Scripts\Section_1\ObjectLiterals.js" />
     <Content Include="Scripts\Section_1\String.js" />
     <Content Include="Scripts\Section_2\Coupling.js" />
+    <Content Include="Scripts\Section_3\OneGlobal.js" />
+    <Content Include="Scripts\Section_3\OutsideGlobal1.js" />
+    <Content Include="Scripts\Section_3\OutsideGlobal2.js" />
+    <Content Include="Scripts\Section_3\SameGlobal.js" />
+    <Content Include="Scripts\Section_4\Events.js" />
     <Content Include="Scripts\_references.js" />
     <Content Include="Web.config" />
     <Content Include="Web.Debug.config">
